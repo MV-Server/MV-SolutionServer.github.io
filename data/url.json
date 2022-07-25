@@ -1,0 +1,42 @@
+{
+  "test" : [
+    {
+      "site" : "cmls",
+      "url" : "http://27.96.134.140:8080/cmls"
+    },
+    {
+      "site" : "smr",
+      "url" : "http://118.67.131.206:8080/smr2"
+    },
+    {
+      "site" : "soil",
+      "url" : "http://118.67.135.235:8080"
+    },
+    {
+      "site" : "photo-register",
+      "url" : ""
+    }
+  ],
+  "release" : [
+    {
+      "site" : "cmls",
+      "url" : "http://115.85.181.11:8080/cmls"
+    },
+    {
+      "site" : "smr",
+      "url" : "http://101.101.219.234:8080/smr"
+    },
+    {
+      "site" : "soil",
+      "url" : "http://118.67.131.39:8080"
+    },
+    {
+      "site" : "pbd",
+      "url" : "http://13.125.221.170:18000"
+    },
+    {
+      "site" : "photo-register",
+      "url" : "http://49.50.163.158:8080"
+    }
+  ]
+}
