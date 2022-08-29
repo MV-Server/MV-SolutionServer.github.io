@@ -19,6 +19,10 @@
     {
       "site" : "photo-register",
       "url" : "http://118.67.135.193:8080"
+    },
+    {
+      "site" : "dcm",
+      "url" : "http://13.125.221.170:19000/dcm"
     }
   ],
   "release" : [
@@ -41,6 +45,10 @@
     {
       "site" : "photo-register",
       "url" : "http://49.50.163.158:8080"
+    },
+    {
+      "site" : "dcm",
+      "url" : "http://13.125.221.170:19000/dcm"
     }
   ]
 }
