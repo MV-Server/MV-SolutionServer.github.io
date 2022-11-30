@@ -23,6 +23,10 @@
     {
       "site" : "dcm",
       "url" : "http://13.125.221.170:19000/dcm"
+    },
+    {
+      "site" : "dtx-iot"
+      "url" : "http://3.38.180.149:8080/dtxiot"
     }
   ],
   "release" : [
@@ -49,6 +53,10 @@
     {
       "site" : "dcm",
       "url" : "http://13.125.221.170:19000/dcm"
+    },
+    {
+      "site" : "dtx-iot"
+      "url" : "http://3.38.180.149:8080/dtxiot"
     }
   ]
 }
